@@ -1,6 +1,0 @@
-- 5 different indentifiers in html:
-	+ student name
-	+ student's number
-	+ student's class ( Ict)
-	+ student's email
-	+ student's birthday
